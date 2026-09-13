@@ -92,7 +92,29 @@ fun SSKNAppRoot(viewModel: SSKNViewModel) {
                     userProgress = uiState.userProgress,
                     onBackClick = { viewModel.navigateBack() },
                     onOpenPage = { pageNum -> viewModel.openReader(chapter.id, pageNum) },
+                    onOpenPdfLesson = { viewModel.openPdfLesson(chapter.id) },
                     onPracticeChapter = { viewModel.startPracticeForChapter(chapter.id) }
+                )
+            } else {
+                viewModel.navigateBack()
+            }
+        }
+
+        is ScreenDestination.PdfLesson -> {
+            val chapter = uiState.activeChapter
+            if (chapter != null) {
+                PdfLessonScreen(
+                    chapter = chapter,
+                    onBackClick = { viewModel.navigateBack() },
+                    onScanPage = { pageNumber ->
+                        NCERTSampleData.pages.firstOrNull { it.chapterId == chapter.id && it.pageNumber == pageNumber }
+                            ?.let { viewModel.openReader(it.chapterId, it.pageNumber) }
+                    },
+                    onOpenMcqs = { viewModel.startAIMCQDrill(chapter.id) },
+                    onAskAboutPage = { pageNumber ->
+                        NCERTSampleData.pages.firstOrNull { it.chapterId == chapter.id && it.pageNumber == pageNumber }
+                            ?.let { viewModel.openReader(it.chapterId, it.pageNumber) }
+                    }
                 )
             } else {
                 viewModel.navigateBack()

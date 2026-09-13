@@ -149,7 +149,7 @@ fun NCERTBrowseScreen(
                                 )
                                 Spacer(modifier = Modifier.height(2.dp))
                                 Text(
-                                    text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "Pages ${chapter.startPage} - ${chapter.endPage} · ${chapter.totalPages} pages" else "Official NCERT source · content import pending",
+                                    text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "Pages ${chapter.startPage} - ${chapter.endPage} · ${chapter.totalPages} pages" else "Original PDF lesson · ${chapter.totalPages} pages",
                                     fontSize = 12.sp,
                                     color = SecondaryText
                                 )
@@ -201,7 +201,7 @@ fun NCERTBrowseScreen(
                                         .padding(horizontal = 6.dp, vertical = 2.dp)
                                 ) {
                                     Text(
-                                        text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "${chapter.verifiedPYQCount} Verified PYQs" else "NCERT source linked",
+                                        text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "${chapter.verifiedPYQCount} Verified PYQs" else "PDF bundled",
                                         fontSize = 10.sp,
                                         fontWeight = FontWeight.Bold,
                                         color = SuccessGreen
@@ -210,7 +210,7 @@ fun NCERTBrowseScreen(
                             }
 
                             Text(
-                                text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "Open chapter" else "View source",
+                                text = "Open chapter",
                                 fontSize = 12.sp,
                                 fontWeight = FontWeight.Bold,
                                 color = PrimaryBlue
@@ -230,6 +230,7 @@ fun ChapterDetailScreen(
     userProgress: UserProgress,
     onBackClick: () -> Unit,
     onOpenPage: (Int) -> Unit,
+    onOpenPdfLesson: () -> Unit,
     onPracticeChapter: () -> Unit,
     modifier: Modifier = Modifier
 ) {
@@ -308,6 +309,18 @@ fun ChapterDetailScreen(
                         Spacer(modifier = Modifier.height(16.dp))
 
                         Button(
+                            onClick = onOpenPdfLesson,
+                            colors = ButtonDefaults.buttonColors(containerColor = Color(0xFFEFF6FF), contentColor = PrimaryBlue),
+                            shape = RoundedCornerShape(10.dp),
+                            modifier = Modifier.fillMaxWidth().height(46.dp),
+                            contentPadding = PaddingValues(horizontal = 12.dp)
+                        ) {
+                            Icon(Icons.Default.MenuBook, contentDescription = null, modifier = Modifier.size(18.dp))
+                            Spacer(modifier = Modifier.width(8.dp))
+                            Text("Open original NCERT PDF lesson", fontSize = 13.5.sp, fontWeight = FontWeight.Bold)
+                        }
+                        Spacer(modifier = Modifier.height(8.dp))
+                        Button(
                             onClick = onPracticeChapter,
                             colors = ButtonDefaults.buttonColors(
                                 containerColor = PrimaryBlue,
@@ -355,10 +368,10 @@ fun ChapterDetailScreen(
                         modifier = Modifier.fillMaxWidth()
                     ) {
                         Column(modifier = Modifier.padding(16.dp)) {
-                            Text("Official NCERT source linked", fontWeight = FontWeight.Bold, color = WarningOrange)
+                            Text("Original PDF lesson available", fontWeight = FontWeight.Bold, color = PrimaryBlue)
                             Spacer(modifier = Modifier.height(6.dp))
                             Text(
-                                "This chapter is in the complete Class ${chapter.classLevel} syllabus. Local page text and illustrations will appear after the NCERT PDF is imported; no generated text is shown as textbook content.",
+                                "The complete original textbook chapter is bundled in the app. Open the PDF lesson above to read every page and use the page-specific scanner and AI actions.",
                                 fontSize = 13.sp, color = PrimaryText, lineHeight = 19.sp
                             )
                             Spacer(modifier = Modifier.height(8.dp))

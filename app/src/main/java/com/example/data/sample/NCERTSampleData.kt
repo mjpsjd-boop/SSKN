@@ -12,12 +12,12 @@ object NCERTSampleData {
             name = "The Living World",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 9,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo111.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo101.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_biological_classification",
@@ -26,12 +26,12 @@ object NCERTSampleData {
             name = "Biological Classification",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo121.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo102.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_plant_kingdom",
@@ -40,12 +40,12 @@ object NCERTSampleData {
             name = "Plant Kingdom",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 14,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo131.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo103.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_animal_kingdom",
@@ -54,12 +54,12 @@ object NCERTSampleData {
             name = "Animal Kingdom",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 18,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo141.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo104.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_morphology_flowering",
@@ -68,12 +68,12 @@ object NCERTSampleData {
             name = "Morphology of Flowering Plants",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo151.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo105.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_anatomy_flowering",
@@ -82,12 +82,12 @@ object NCERTSampleData {
             name = "Anatomy of Flowering Plants",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 8,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo161.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo106.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_structural_organisation_animals",
@@ -96,12 +96,12 @@ object NCERTSampleData {
             name = "Structural Organisation in Animals",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 6,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo171.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo107.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_cell_unit",
@@ -114,7 +114,7 @@ object NCERTSampleData {
             isHighYield = true,
             verifiedPYQCount = 14,
             description = "Fundamental unit of life, membrane systems, organelles and cell ultrastructure.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo181.pdf",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo108.pdf",
             contentAvailability = "VERIFIED_LOCAL"
         ),
         ChapterInfo(
@@ -124,12 +124,12 @@ object NCERTSampleData {
             name = "Biomolecules",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo191.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo109.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_cell_cycle",
@@ -142,7 +142,7 @@ object NCERTSampleData {
             isHighYield = true,
             verifiedPYQCount = 18,
             description = "Cell-cycle phases, mitosis, meiosis and chromosome behaviour.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo101.pdf",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo110.pdf",
             contentAvailability = "VERIFIED_LOCAL"
         ),
         ChapterInfo(
@@ -152,12 +152,12 @@ object NCERTSampleData {
             name = "Transport in Plants",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 22,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo111.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_mineral_nutrition",
@@ -166,12 +166,12 @@ object NCERTSampleData {
             name = "Mineral Nutrition",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo121.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo112.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_photosynthesis",
@@ -184,7 +184,7 @@ object NCERTSampleData {
             isHighYield = true,
             verifiedPYQCount = 12,
             description = "Light reactions, photophosphorylation, Calvin cycle, C4 pathway and photorespiration.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo131.pdf",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo113.pdf",
             contentAvailability = "VERIFIED_LOCAL"
         ),
         ChapterInfo(
@@ -194,12 +194,12 @@ object NCERTSampleData {
             name = "Respiration in Plants",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 12,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo141.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo114.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_plant_growth",
@@ -208,12 +208,12 @@ object NCERTSampleData {
             name = "Plant Growth and Development",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 12,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo151.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo115.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_digestion_absorption",
@@ -222,12 +222,12 @@ object NCERTSampleData {
             name = "Digestion and Absorption",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 12,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo161.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo116.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_breathing_exchange",
@@ -236,12 +236,12 @@ object NCERTSampleData {
             name = "Breathing and Exchange of Gases",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo171.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo117.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_body_fluids",
@@ -250,12 +250,12 @@ object NCERTSampleData {
             name = "Body Fluids and Circulation",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 9,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo181.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo118.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_excretory_products",
@@ -264,12 +264,12 @@ object NCERTSampleData {
             name = "Excretory Products and Elimination",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 14,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo191.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo119.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_locomotion_movement",
@@ -278,12 +278,12 @@ object NCERTSampleData {
             name = "Locomotion and Movement",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo201.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://archive.org/download/ncert-kebo1/kebo120.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_neural_control",
@@ -292,12 +292,12 @@ object NCERTSampleData {
             name = "Neural Control and Coordination",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo211.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://archive.org/download/ncert-kebo1/kebo121.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_chemical_coordination",
@@ -306,12 +306,12 @@ object NCERTSampleData {
             name = "Chemical Coordination and Integration",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 11 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo221.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://archive.org/download/ncert-kebo1/kebo122.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_reproduction_organisms",
@@ -320,12 +320,12 @@ object NCERTSampleData {
             name = "Reproduction in Organisms",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 25,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo111.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_sexual_reproduction_plants",
@@ -334,12 +334,12 @@ object NCERTSampleData {
             name = "Sexual Reproduction in Flowering Plants",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 15,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo121.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo102.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_human_reproduction",
@@ -352,7 +352,7 @@ object NCERTSampleData {
             isHighYield = true,
             verifiedPYQCount = 16,
             description = "Reproductive systems, gametogenesis, menstrual cycle, fertilisation, pregnancy and parturition.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo131.pdf",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo103.pdf",
             contentAvailability = "VERIFIED_LOCAL"
         ),
         ChapterInfo(
@@ -362,12 +362,12 @@ object NCERTSampleData {
             name = "Reproductive Health",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 28,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo141.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo104.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_genetics_principles",
@@ -380,7 +380,7 @@ object NCERTSampleData {
             isHighYield = true,
             verifiedPYQCount = 22,
             description = "Mendelian inheritance, linkage, recombination, sex determination and genetic disorders.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo151.pdf",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo105.pdf",
             contentAvailability = "VERIFIED_LOCAL"
         ),
         ChapterInfo(
@@ -394,7 +394,7 @@ object NCERTSampleData {
             isHighYield = true,
             verifiedPYQCount = 26,
             description = "DNA, replication, transcription, translation, genetic code and gene regulation.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo161.pdf",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo106.pdf",
             contentAvailability = "VERIFIED_LOCAL"
         ),
         ChapterInfo(
@@ -404,12 +404,12 @@ object NCERTSampleData {
             name = "Evolution",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 22,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo171.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo107.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_human_health",
@@ -418,12 +418,12 @@ object NCERTSampleData {
             name = "Human Health and Disease",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 12,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo181.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo108.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_microbes_welfare",
@@ -432,12 +432,12 @@ object NCERTSampleData {
             name = "Microbes in Human Welfare",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo191.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo109.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_biotech_principles",
@@ -446,12 +446,12 @@ object NCERTSampleData {
             name = "Biotechnology: Principles and Processes",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 11,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo110.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_biotech_applications",
@@ -460,12 +460,12 @@ object NCERTSampleData {
             name = "Biotechnology and its Applications",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 17,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo111.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_organisms_populations",
@@ -474,12 +474,12 @@ object NCERTSampleData {
             name = "Organisms and Populations",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 11,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo121.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo112.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_ecosystem",
@@ -488,12 +488,12 @@ object NCERTSampleData {
             name = "Ecosystem",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo131.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo113.pdf",
+            contentAvailability = "BUNDLED_PDF"
         ),
         ChapterInfo(
             id = "ch_biodiversity",
@@ -502,12 +502,12 @@ object NCERTSampleData {
             name = "Biodiversity and Conservation",
             startPage = 0,
             endPage = 0,
-            totalPages = 0,
+            totalPages = 17,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official NCERT chapter in the Class 12 Biology textbook. Import the complete chapter PDF/pages before marking this chapter as locally verified.",
-            sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo141.pdf",
-            contentAvailability = "OFFICIAL_SOURCE_PENDING"
+            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            sourceUrl = "https://archive.org/download/ncert-lebo1/lebo114.pdf",
+            contentAvailability = "BUNDLED_PDF"
         )
     )
     val pages: List<NCERTPageData> = listOf(

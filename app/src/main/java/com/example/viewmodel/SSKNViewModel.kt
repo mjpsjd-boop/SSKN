@@ -19,6 +19,7 @@ sealed class ScreenDestination {
     object Splash : ScreenDestination()
     object Main : ScreenDestination()
     data class ChapterDetail(val chapterId: String) : ScreenDestination()
+    data class PdfLesson(val chapterId: String) : ScreenDestination()
     data class NCERTReader(val chapterId: String, val pageNumber: Int) : ScreenDestination()
     data class Practice(
         val sourceTitle: String,
@@ -162,6 +163,13 @@ class SSKNViewModel(application: Application) : AndroidViewModel(application) {
         _uiState.value = _uiState.value.copy(
             activeChapter = chapter,
             currentScreen = ScreenDestination.ChapterDetail(chapterId)
+        )
+    }
+
+    fun openPdfLesson(chapterId: String) {
+        _uiState.value = _uiState.value.copy(
+            activeChapter = repository.getChapter(chapterId),
+            currentScreen = ScreenDestination.PdfLesson(chapterId)
         )
     }
 
@@ -556,6 +564,9 @@ class SSKNViewModel(application: Application) : AndroidViewModel(application) {
             is ScreenDestination.Main -> {}
             is ScreenDestination.ChapterDetail -> {
                 _uiState.value = _uiState.value.copy(currentScreen = ScreenDestination.Main)
+            }
+            is ScreenDestination.PdfLesson -> {
+                _uiState.value = _uiState.value.copy(currentScreen = ScreenDestination.ChapterDetail(current.chapterId))
             }
             is ScreenDestination.NCERTReader -> {
                 val chapterId = current.chapterId
