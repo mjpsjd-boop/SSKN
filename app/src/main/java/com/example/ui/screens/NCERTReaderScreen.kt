@@ -717,49 +717,30 @@ fun NCERTReaderScreen(
 
                             // 4 Required Diagram Buttons
                             Spacer(modifier = Modifier.height(12.dp))
-                            Row(
-                                modifier = Modifier.fillMaxWidth(),
-                                horizontalArrangement = Arrangement.spacedBy(6.dp)
-                            ) {
-                                OutlinedButton(
-                                    onClick = {
-                                        onAskAI("Explain this diagram '${page.diagramTitle}': ${page.diagramDescription}")
-                                        activeSheet = ReaderSheetType.ASK_AI
-                                    },
-                                    shape = RoundedCornerShape(8.dp),
-                                    modifier = Modifier.weight(1f),
-                                    contentPadding = PaddingValues(horizontal = 4.dp, vertical = 6.dp)
-                                ) {
-                                    Text("Explain", fontSize = 11.sp, fontWeight = FontWeight.Bold)
+                            // Compact, book-first action grid: one action per cell prevents text/icon collisions.
+                            Column(verticalArrangement = Arrangement.spacedBy(8.dp)) {
+                                Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                                    OutlinedButton(
+                                        onClick = { onAskAI("Explain this diagram '${page.diagramTitle}': ${page.diagramDescription}"); activeSheet = ReaderSheetType.ASK_AI },
+                                        shape = RoundedCornerShape(8.dp), modifier = Modifier.weight(1f),
+                                        contentPadding = PaddingValues(horizontal = 8.dp, vertical = 8.dp)
+                                    ) { Text("Explain", fontSize = 11.sp, fontWeight = FontWeight.Bold) }
+                                    Button(
+                                        onClick = { onAnalyzeDiagram(); activeSheet = ReaderSheetType.DIAGRAM_ANALYSIS },
+                                        shape = RoundedCornerShape(8.dp), colors = ButtonDefaults.buttonColors(containerColor = AIPurple),
+                                        modifier = Modifier.weight(1f), contentPadding = PaddingValues(horizontal = 8.dp, vertical = 8.dp)
+                                    ) { Text("Diagram analysis", fontSize = 11.sp, fontWeight = FontWeight.Bold, maxLines = 1) }
                                 }
-                                Button(
-                                    onClick = {
-                                        onAnalyzeDiagram()
-                                        activeSheet = ReaderSheetType.DIAGRAM_ANALYSIS
-                                    },
-                                    shape = RoundedCornerShape(8.dp),
-                                    colors = ButtonDefaults.buttonColors(containerColor = AIPurple),
-                                    modifier = Modifier.weight(1.3f),
-                                    contentPadding = PaddingValues(horizontal = 4.dp, vertical = 6.dp)
-                                ) {
-                                    Text("AI Analysis", fontSize = 11.sp, fontWeight = FontWeight.Bold)
-                                }
-                                Button(
-                                    onClick = onStartAIDrill,
-                                    shape = RoundedCornerShape(8.dp),
-                                    colors = ButtonDefaults.buttonColors(containerColor = PrimaryBlue),
-                                    modifier = Modifier.weight(1.2f),
-                                    contentPadding = PaddingValues(horizontal = 4.dp, vertical = 6.dp)
-                                ) {
-                                    Text("Questions", fontSize = 11.sp, fontWeight = FontWeight.Bold)
-                                }
-                                OutlinedButton(
-                                    onClick = { activeSheet = ReaderSheetType.ASK_AI },
-                                    shape = RoundedCornerShape(8.dp),
-                                    modifier = Modifier.weight(1f),
-                                    contentPadding = PaddingValues(horizontal = 4.dp, vertical = 6.dp)
-                                ) {
-                                    Text("Ask AI", fontSize = 11.sp, fontWeight = FontWeight.Bold)
+                                Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                                    Button(
+                                        onClick = onStartAIDrill, shape = RoundedCornerShape(8.dp),
+                                        colors = ButtonDefaults.buttonColors(containerColor = PrimaryBlue), modifier = Modifier.weight(1f),
+                                        contentPadding = PaddingValues(horizontal = 8.dp, vertical = 8.dp)
+                                    ) { Text("MCQs", fontSize = 11.sp, fontWeight = FontWeight.Bold) }
+                                    OutlinedButton(
+                                        onClick = { activeSheet = ReaderSheetType.ASK_AI }, shape = RoundedCornerShape(8.dp),
+                                        modifier = Modifier.weight(1f), contentPadding = PaddingValues(horizontal = 8.dp, vertical = 8.dp)
+                                    ) { Text("Ask about page", fontSize = 11.sp, fontWeight = FontWeight.Bold, maxLines = 1) }
                                 }
                             }
                         }

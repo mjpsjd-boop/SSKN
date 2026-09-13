@@ -149,7 +149,7 @@ fun NCERTBrowseScreen(
                                 )
                                 Spacer(modifier = Modifier.height(2.dp))
                                 Text(
-                                    text = "Pages ${chapter.startPage} - ${chapter.endPage} · (${chapter.totalPages} Pages)",
+                                    text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "Pages ${chapter.startPage} - ${chapter.endPage} · ${chapter.totalPages} pages" else "Official NCERT source · content import pending",
                                     fontSize = 12.sp,
                                     color = SecondaryText
                                 )
@@ -201,7 +201,7 @@ fun NCERTBrowseScreen(
                                         .padding(horizontal = 6.dp, vertical = 2.dp)
                                 ) {
                                     Text(
-                                        text = "${chapter.verifiedPYQCount} Verified PYQs",
+                                        text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "${chapter.verifiedPYQCount} Verified PYQs" else "NCERT source linked",
                                         fontSize = 10.sp,
                                         fontWeight = FontWeight.Bold,
                                         color = SuccessGreen
@@ -210,7 +210,7 @@ fun NCERTBrowseScreen(
                             }
 
                             Text(
-                                text = "Open Chapter →",
+                                text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "Open chapter" else "View source",
                                 fontSize = 12.sp,
                                 fontWeight = FontWeight.Bold,
                                 color = PrimaryBlue
@@ -346,7 +346,29 @@ fun ChapterDetailScreen(
                 )
             }
 
-            // Page Items
+            if (pages.isEmpty()) {
+                item {
+                    Surface(
+                        color = Color(0xFFFFFBEB),
+                        shape = RoundedCornerShape(12.dp),
+                        border = BorderStroke(1.dp, Color(0xFFFDE68A)),
+                        modifier = Modifier.fillMaxWidth()
+                    ) {
+                        Column(modifier = Modifier.padding(16.dp)) {
+                            Text("Official NCERT source linked", fontWeight = FontWeight.Bold, color = WarningOrange)
+                            Spacer(modifier = Modifier.height(6.dp))
+                            Text(
+                                "This chapter is in the complete Class ${chapter.classLevel} syllabus. Local page text and illustrations will appear after the NCERT PDF is imported; no generated text is shown as textbook content.",
+                                fontSize = 13.sp, color = PrimaryText, lineHeight = 19.sp
+                            )
+                            Spacer(modifier = Modifier.height(8.dp))
+                            Text(chapter.sourceUrl, fontSize = 11.sp, color = PrimaryBlue, maxLines = 2, overflow = TextOverflow.Ellipsis)
+                        }
+                    }
+                }
+            }
+
+            // Verified local page items
             items(pages) { page ->
                 val isRead = userProgress.readPages.contains(page.id)
 

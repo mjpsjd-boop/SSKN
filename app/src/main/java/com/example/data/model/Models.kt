@@ -139,7 +139,9 @@ data class ChapterInfo(
     val totalPages: Int,
     val isHighYield: Boolean,
     val verifiedPYQCount: Int,
-    val description: String
+    val description: String,
+    val sourceUrl: String = "",
+    val contentAvailability: String = "VERIFIED_LOCAL"
 )
 
 data class MistakeRecord(
@@ -299,5 +301,4 @@ data class AIGenerationHistoryItem(
     val snippet: String,
     val timestamp: Long = System.currentTimeMillis()
 )
-
 
