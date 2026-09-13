@@ -317,7 +317,7 @@ fun ChapterDetailScreen(
                         ) {
                             Icon(Icons.Default.MenuBook, contentDescription = null, modifier = Modifier.size(18.dp))
                             Spacer(modifier = Modifier.width(8.dp))
-                            Text("Open original NCERT PDF lesson", fontSize = 13.5.sp, fontWeight = FontWeight.Bold)
+                            Text("Open NCERT digital notebook", fontSize = 13.5.sp, fontWeight = FontWeight.Bold)
                         }
                         Spacer(modifier = Modifier.height(8.dp))
                         Button(
@@ -368,14 +368,12 @@ fun ChapterDetailScreen(
                         modifier = Modifier.fillMaxWidth()
                     ) {
                         Column(modifier = Modifier.padding(16.dp)) {
-                            Text("Original PDF lesson available", fontWeight = FontWeight.Bold, color = PrimaryBlue)
+                            Text("Digital notebook ready", fontWeight = FontWeight.Bold, color = PrimaryBlue)
                             Spacer(modifier = Modifier.height(6.dp))
                             Text(
-                                "The complete original textbook chapter is bundled in the app. Open the PDF lesson above to read every page and use the page-specific scanner and AI actions.",
+                                "Tap the notebook button above to read the real NCERT pages one at a time. Turn pages with Previous and Next, then scan or practice from the page in front of you.",
                                 fontSize = 13.sp, color = PrimaryText, lineHeight = 19.sp
                             )
-                            Spacer(modifier = Modifier.height(8.dp))
-                            Text(chapter.sourceUrl, fontSize = 11.sp, color = PrimaryBlue, maxLines = 2, overflow = TextOverflow.Ellipsis)
                         }
                     }
                 }

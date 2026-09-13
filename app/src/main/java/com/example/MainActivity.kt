@@ -107,13 +107,13 @@ fun SSKNAppRoot(viewModel: SSKNViewModel) {
                     chapter = chapter,
                     onBackClick = { viewModel.navigateBack() },
                     onScanPage = { pageNumber ->
-                        NCERTSampleData.pages.firstOrNull { it.chapterId == chapter.id && it.pageNumber == pageNumber }
-                            ?.let { viewModel.openReader(it.chapterId, it.pageNumber) }
+                        viewModel.openReader(chapter.id, pageNumber)
                     },
-                    onOpenMcqs = { viewModel.startAIMCQDrill(chapter.id) },
+                    onOpenMcqs = { pageNumber ->
+                        viewModel.startAIMCQDrill(chapter.id, pageNumber)
+                    },
                     onAskAboutPage = { pageNumber ->
-                        NCERTSampleData.pages.firstOrNull { it.chapterId == chapter.id && it.pageNumber == pageNumber }
-                            ?.let { viewModel.openReader(it.chapterId, it.pageNumber) }
+                        viewModel.openReader(chapter.id, pageNumber)
                     }
                 )
             } else {

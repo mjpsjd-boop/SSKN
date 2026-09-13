@@ -174,8 +174,24 @@ class SSKNViewModel(application: Application) : AndroidViewModel(application) {
     }
 
     fun openReader(chapterId: String, pageNumber: Int) {
-        val page = repository.getPageByNumber(chapterId, pageNumber)
         val chapter = repository.getChapter(chapterId)
+        val page = repository.getPageByNumber(chapterId, pageNumber)
+            ?: chapter?.let {
+                NCERTPageData(
+                    id = "pdf_${it.id}_$pageNumber",
+                    classLevel = it.classLevel,
+                    bookTitle = "NCERT Biology Class ${it.classLevel}",
+                    chapterId = it.id,
+                    chapterNumber = it.number,
+                    chapterName = it.name,
+                    sectionId = "pdf_page_$pageNumber",
+                    sectionTitle = "Original NCERT page $pageNumber",
+                    pageNumber = pageNumber,
+                    totalPagesInChapter = it.totalPages,
+                    content = "This is the original NCERT PDF page ${pageNumber} of ${it.totalPages}. Use the page image in the digital notebook and run AI scan on the visible page.",
+                    keyPoints = emptyList()
+                )
+            }
         _uiState.value = _uiState.value.copy(
             activeChapter = chapter,
             activePage = page,
