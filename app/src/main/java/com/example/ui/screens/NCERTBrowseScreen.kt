@@ -93,14 +93,14 @@ fun NCERTBrowseScreen(
                     verticalAlignment = Alignment.CenterVertically
                 ) {
                     Text(
-                        text = "AUTHORIZED NCERT SYLLABUS",
+                        text = "COMPLETE NCERT DIGITAL BOOK",
                         fontSize = 11.5.sp,
                         fontWeight = FontWeight.Bold,
                         color = SecondaryText,
                         letterSpacing = 1.sp
                     )
                     Text(
-                        text = "${chapters.size} Chapters",
+                        text = "${chapters.size} Chapters · ${chapters.sumOf { it.totalPages }} Pages",
                         fontSize = 12.sp,
                         fontWeight = FontWeight.SemiBold,
                         color = PrimaryBlue
@@ -149,7 +149,7 @@ fun NCERTBrowseScreen(
                                 )
                                 Spacer(modifier = Modifier.height(2.dp))
                                 Text(
-                                    text = if (chapter.contentAvailability == "VERIFIED_LOCAL") "Pages ${chapter.startPage} - ${chapter.endPage} · ${chapter.totalPages} pages" else "Original PDF lesson · ${chapter.totalPages} pages",
+                                    text = "Original NCERT pages · ${chapter.totalPages} pages",
                                     fontSize = 12.sp,
                                     color = SecondaryText
                                 )
