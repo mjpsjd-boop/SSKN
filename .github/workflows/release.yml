@@ -38,7 +38,7 @@ jobs:
 
       - name: Rename APK
         run: |
-          cp app/build/outputs/apk/debug/app-debug.apk SSKN-NEET-Biology.apk
+          cp app/build/outputs/apk/debug/app-debug.apk SSKN-NEET-Biology-v${{ github.ref_name || inputs.tag_name }}.apk
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v2
@@ -48,5 +48,16 @@ jobs:
           draft: false
           prerelease: false
           generate_release_notes: true
+          body: |
+            ## SSKN NEET Biology ${{ github.ref_name || inputs.tag_name }}
+
+            This release includes the complete PDF-backed Biology library:
+
+            - 22 Class 11 Biology chapter PDFs
+            - 14 Class 12 Biology chapter PDFs
+            - Original PDF page rendering with page-specific Scan, Ask, and MCQ actions
+            - Updated spacing and reader controls to prevent UI overlap
+
+            Download the APK below and install it on your Android device.
           files: |
-            SSKN-NEET-Biology.apk
+            SSKN-NEET-Biology-v${{ github.ref_name || inputs.tag_name }}.apk
