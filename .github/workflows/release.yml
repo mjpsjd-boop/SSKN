@@ -33,6 +33,18 @@ jobs:
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
+      - name: Generate debug keystore
+        run: |
+          keytool -genkeypair -v \
+            -keystore debug.keystore \
+            -storepass android \
+            -alias androiddebugkey \
+            -keypass android \
+            -keyalg RSA \
+            -keysize 2048 \
+            -validity 10000 \
+            -dname "CN=Android Debug,O=Android,C=US"
+
       - name: Build Debug APK
         run: ./gradlew assembleDebug --no-daemon
 
@@ -45,7 +57,7 @@ jobs:
         with:
           name: "SSKN Release ${{ github.ref_name || inputs.tag_name }}"
           tag_name: "${{ github.ref_name || inputs.tag_name }}"
-          draft: false
+          draft: true
           prerelease: false
           generate_release_notes: true
           body: |
