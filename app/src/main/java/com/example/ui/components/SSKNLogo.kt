@@ -1,6 +1,6 @@
 package com.example.ui.components
 
-import androidx.compose.foundation.Canvas
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -10,12 +10,10 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.geometry.Offset
-import androidx.compose.ui.geometry.Size
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
-import androidx.compose.ui.graphics.Path
-import androidx.compose.ui.graphics.drawscope.Stroke
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.platform.testTag
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
@@ -23,73 +21,19 @@ import androidx.compose.ui.unit.Dp
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.example.ui.theme.*
+import com.example.R
 
 @Composable
 fun SSKNEmblem(
     size: Dp = 44.dp,
     modifier: Modifier = Modifier
 ) {
-    Box(
-        modifier = modifier
-            .size(size)
-            .clip(RoundedCornerShape(size * 0.28f))
-            .background(
-                brush = Brush.linearGradient(
-                    colors = listOf(MidnightNavy, SecondaryNavy, Color(0xFF1E293B)),
-                    start = Offset(0f, 0f),
-                    end = Offset(100f, 100f)
-                )
-            ),
-        contentAlignment = Alignment.Center
-    ) {
-        Canvas(modifier = Modifier.size(size * 0.72f)) {
-            val w = this.size.width
-            val h = this.size.height
-
-            // Open book base - Left page
-            val leftPage = Path().apply {
-                moveTo(w * 0.12f, h * 0.76f)
-                quadraticBezierTo(w * 0.28f, h * 0.68f, w * 0.48f, h * 0.74f)
-                lineTo(w * 0.48f, h * 0.84f)
-                quadraticBezierTo(w * 0.28f, h * 0.78f, w * 0.12f, h * 0.86f)
-                close()
-            }
-            drawPath(leftPage, color = PrimaryBlue)
-
-            // Open book base - Right page
-            val rightPage = Path().apply {
-                moveTo(w * 0.88f, h * 0.76f)
-                quadraticBezierTo(w * 0.72f, h * 0.68f, w * 0.52f, h * 0.74f)
-                lineTo(w * 0.52f, h * 0.84f)
-                quadraticBezierTo(w * 0.72f, h * 0.78f, w * 0.88f, h * 0.86f)
-                close()
-            }
-            drawPath(rightPage, color = BrightBlue)
-
-            // Dynamic 'S' spine and curve
-            val sPath = Path().apply {
-                // Top curve of S
-                moveTo(w * 0.70f, h * 0.22f)
-                cubicTo(w * 0.55f, h * 0.12f, w * 0.32f, h * 0.16f, w * 0.28f, h * 0.32f)
-                cubicTo(w * 0.24f, h * 0.46f, w * 0.52f, h * 0.48f, w * 0.62f, h * 0.54f)
-                cubicTo(w * 0.76f, h * 0.62f, w * 0.66f, h * 0.80f, w * 0.34f, h * 0.76f)
-            }
-            drawPath(
-                sPath,
-                color = Color.White,
-                style = Stroke(width = w * 0.11f, cap = androidx.compose.ui.graphics.StrokeCap.Round)
-            )
-
-            // Subtle Biology leaf accent budding at top right of S
-            val leafPath = Path().apply {
-                moveTo(w * 0.65f, h * 0.18f)
-                quadraticBezierTo(w * 0.80f, h * 0.12f, w * 0.78f, h * 0.28f)
-                quadraticBezierTo(w * 0.68f, h * 0.26f, w * 0.65f, h * 0.18f)
-                close()
-            }
-            drawPath(leafPath, color = Color(0xFF38BDF8))
-        }
-    }
+    Image(
+        painter = painterResource(R.drawable.sskn_logo),
+        contentDescription = "SSKN NEET Biology",
+        modifier = modifier.size(size).clip(RoundedCornerShape(size * 0.28f)),
+        contentScale = ContentScale.Crop
+    )
 }
 
 @Composable
