@@ -1,0 +1,6 @@
+{
+  "name": "SSKN",
+  "description": "Saleem Sir Ki NCERT — Read NCERT. Master Every Page. Crack NEET. NCERT-first Biology learning, AI page analysis, MCQs, and verified PYQs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,58 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle build cache & intermediate files
+.gradle/
+build/
+app/build/
+.kotlin/
+.build-outputs/
+
+# Android Studio / IntelliJ IDEA project files
+*.iml
+.idea/
+!.idea/codeStyles/
+!.idea/misc.xml
+!.idea/vcs.xml
+
+# Local configuration files (SDK path, system paths)
+local.properties
+
+# Secrets & Environment variables
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.properties
+
+# Keystores & Signing credentials (protect signing keys from version control)
+*.jks
+*.keystore
+debug.keystore
+debug.keystore.base64
+
+# Native build caches
+.externalNativeBuild
+.cxx
+
+# Profiling & captures
+captures/
+replay/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*~

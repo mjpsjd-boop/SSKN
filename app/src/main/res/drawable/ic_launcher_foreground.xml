@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Open Book Left Page & S Lower Loop Base -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M30,68 C30,68 39,63 52,67 C52,71 40,73 30,76 Z" />
+    
+    <!-- Open Book Right Page Base -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M78,68 C78,68 69,63 56,67 C56,71 68,73 78,76 Z" />
+
+    <!-- Stylized "S" Spine intertwining the book and biology sprout -->
+    <!-- Top arc of S (leaf/cell curve) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,32 C60,26 46,27 41,34 C36,41 40,49 51,51 C63,53 68,58 66,66 C64,74 53,77 42,75 C37,74 34,71 34,71 L32,76 C32,76 37,79 43,80 C57,82 71,78 72,64 C73,53 65,47 54,45 C44,43 42,39 45,34 C48,29 59,29 63,34 Z" />
+
+    <!-- Biology leaf accent inside the top curve -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M54,28 C56,23 62,21 65,22 C67,26 63,30 58,31 C55,31 54,30 54,28 Z" />
+
+    <!-- Book center spine notch -->
+    <path
+        android:fillColor="#93C5FD"
+        android:pathData="M53,65 L55,65 L55,75 L53,75 Z" />
+</vector>
