@@ -23,7 +23,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 46,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -45,7 +45,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 47,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -67,7 +67,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 48,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -89,7 +89,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 49,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -111,7 +111,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 50,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -133,7 +133,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 51,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -155,7 +155,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 52,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -177,7 +177,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 53,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -199,7 +199,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 54,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -221,7 +221,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 55,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -243,7 +243,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 56,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -265,7 +265,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 57,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -287,7 +287,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 58,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -309,7 +309,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 59,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -331,7 +331,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 60,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -353,7 +353,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 61,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -375,7 +375,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 62,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -397,7 +397,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 63,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -419,7 +419,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 64,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -441,7 +441,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 65,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -463,7 +463,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 66,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -485,7 +485,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 67,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -507,7 +507,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 68,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -529,7 +529,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 69,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -551,7 +551,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 70,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -573,7 +573,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 71,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -595,7 +595,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 72,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -617,7 +617,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 73,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -639,7 +639,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 74,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -661,7 +661,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 75,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -683,7 +683,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 76,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -705,7 +705,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 77,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -727,7 +727,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 78,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -749,7 +749,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 79,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -771,7 +771,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 80,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -793,7 +793,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 81,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -815,7 +815,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 82,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -837,7 +837,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 83,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -859,7 +859,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 84,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -881,7 +881,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 85,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -903,7 +903,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 86,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -925,7 +925,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 87,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -947,7 +947,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 88,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -969,7 +969,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 89,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -991,7 +991,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 90,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1013,7 +1013,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 91,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1035,7 +1035,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 92,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1057,7 +1057,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 93,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1079,7 +1079,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 94,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1101,7 +1101,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 95,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1123,7 +1123,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 96,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1145,7 +1145,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 97,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1167,7 +1167,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 98,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1189,7 +1189,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 99,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1211,7 +1211,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 100,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1233,7 +1233,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 101,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1255,7 +1255,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 102,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1277,7 +1277,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 103,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1299,7 +1299,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 104,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1321,7 +1321,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 105,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1343,7 +1343,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 106,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1365,7 +1365,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 107,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1387,7 +1387,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 108,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1409,7 +1409,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 109,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1431,7 +1431,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 110,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1453,7 +1453,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 111,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1475,7 +1475,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 112,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1497,7 +1497,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 113,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1519,7 +1519,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 114,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1541,7 +1541,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 115,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1563,7 +1563,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 116,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1585,7 +1585,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 117,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1607,7 +1607,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 118,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1629,7 +1629,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 119,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1651,7 +1651,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 120,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1673,7 +1673,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 121,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1695,7 +1695,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 122,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1717,7 +1717,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 123,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1739,7 +1739,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 124,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1761,7 +1761,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 125,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1783,7 +1783,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 126,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1805,7 +1805,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 127,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1827,7 +1827,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 128,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1849,7 +1849,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 129,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1871,7 +1871,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 130,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1893,7 +1893,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 131,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1915,7 +1915,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 132,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1937,7 +1937,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 133,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1959,7 +1959,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 134,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -1981,7 +1981,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2018,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 135,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2000,7 +2000,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 46,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2019,7 +2019,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 47,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2041,7 +2041,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 48,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2060,7 +2060,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 49,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2079,7 +2079,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 50,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2098,7 +2098,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 51,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2117,7 +2117,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 52,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2136,7 +2136,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 53,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2155,7 +2155,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 54,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2174,7 +2174,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 55,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2193,7 +2193,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 56,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2212,7 +2212,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 57,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2231,7 +2231,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 58,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2250,7 +2250,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 59,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2272,7 +2272,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 60,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2291,7 +2291,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 61,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2313,7 +2313,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 62,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2332,7 +2332,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 63,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2351,7 +2351,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 64,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2370,7 +2370,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 65,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2389,7 +2389,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 66,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2411,7 +2411,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 67,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2433,7 +2433,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 68,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2455,7 +2455,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 69,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2474,7 +2474,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 70,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2493,7 +2493,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 71,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2512,7 +2512,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 72,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2531,7 +2531,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 73,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2550,7 +2550,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 74,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2569,7 +2569,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 75,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2588,7 +2588,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 76,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2607,7 +2607,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 77,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2626,7 +2626,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 78,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2648,7 +2648,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 79,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2670,7 +2670,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 80,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2692,7 +2692,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 81,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2711,7 +2711,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 82,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2730,7 +2730,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 83,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2752,7 +2752,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 84,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2774,7 +2774,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 85,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2793,7 +2793,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 86,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2812,7 +2812,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 87,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2831,7 +2831,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 88,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2850,7 +2850,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 89,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2869,7 +2869,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 90,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2888,7 +2888,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 91,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2907,7 +2907,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 92,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2926,7 +2926,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 93,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2945,7 +2945,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 94,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2964,7 +2964,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 95,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -2983,7 +2983,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 96,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3002,7 +3002,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 97,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3021,7 +3021,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 98,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3040,7 +3040,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 99,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3059,7 +3059,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 100,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3078,7 +3078,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 101,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3100,7 +3100,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 102,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3119,7 +3119,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 103,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3138,7 +3138,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 104,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3157,7 +3157,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 105,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3176,7 +3176,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 106,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3195,7 +3195,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 107,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3217,7 +3217,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 108,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3239,7 +3239,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 109,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3261,7 +3261,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 110,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3283,7 +3283,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 111,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3302,7 +3302,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 112,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3321,7 +3321,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 113,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3340,7 +3340,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 114,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3362,7 +3362,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 115,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3381,7 +3381,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 116,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3400,7 +3400,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 117,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3422,7 +3422,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 118,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3444,7 +3444,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 119,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3463,7 +3463,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 120,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3482,7 +3482,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 121,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3501,7 +3501,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 122,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3520,7 +3520,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 123,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3539,7 +3539,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 124,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3558,7 +3558,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 125,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3580,7 +3580,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 126,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3602,7 +3602,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 127,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3621,7 +3621,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 128,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3640,7 +3640,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 129,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3659,7 +3659,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 130,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3681,7 +3681,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 131,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3703,7 +3703,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 132,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3725,7 +3725,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 133,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3744,7 +3744,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 134,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3763,7 +3763,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2019,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 135,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3785,7 +3785,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 1,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3807,7 +3807,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 2,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3829,7 +3829,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 3,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3851,7 +3851,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 4,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3873,7 +3873,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 5,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3895,7 +3895,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 6,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3917,7 +3917,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 7,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3939,7 +3939,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 8,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3961,7 +3961,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 9,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -3983,7 +3983,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 10,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4005,7 +4005,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 11,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4027,7 +4027,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 12,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4049,7 +4049,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 13,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4071,7 +4071,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 14,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4093,7 +4093,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 15,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4115,7 +4115,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 16,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4137,7 +4137,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 17,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4159,7 +4159,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 18,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4181,7 +4181,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 19,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4203,7 +4203,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 20,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4225,7 +4225,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 21,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4247,7 +4247,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 22,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4269,7 +4269,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 23,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4291,7 +4291,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 24,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4313,7 +4313,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 25,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4335,7 +4335,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 26,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4357,7 +4357,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 27,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4379,7 +4379,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 28,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4401,7 +4401,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 29,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4423,7 +4423,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 30,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4445,7 +4445,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 31,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4467,7 +4467,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 32,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4489,7 +4489,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 33,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4511,7 +4511,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 34,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4533,7 +4533,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 35,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4555,7 +4555,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 36,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4577,7 +4577,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 37,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4599,7 +4599,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 38,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4621,7 +4621,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 39,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4643,7 +4643,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 40,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4665,7 +4665,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 41,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4687,7 +4687,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 42,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4709,7 +4709,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 43,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4731,7 +4731,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 44,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4753,7 +4753,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 45,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4775,7 +4775,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 46,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4797,7 +4797,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 47,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4819,7 +4819,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 48,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4841,7 +4841,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 49,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4863,7 +4863,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 50,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4885,7 +4885,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 51,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4907,7 +4907,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 52,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4929,7 +4929,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 53,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4951,7 +4951,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 54,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4973,7 +4973,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 55,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -4995,7 +4995,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 56,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5017,7 +5017,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 57,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5039,7 +5039,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 58,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5061,7 +5061,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 59,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5083,7 +5083,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 60,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5105,7 +5105,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 61,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5127,7 +5127,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 62,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5149,7 +5149,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 63,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5171,7 +5171,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 64,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5193,7 +5193,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 65,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5215,7 +5215,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 66,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5237,7 +5237,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 67,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5259,7 +5259,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 68,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5281,7 +5281,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 69,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5303,7 +5303,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 70,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5325,7 +5325,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 71,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5347,7 +5347,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 72,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5369,7 +5369,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 73,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5391,7 +5391,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 74,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5413,7 +5413,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 75,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5435,7 +5435,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 76,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5457,7 +5457,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 77,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5479,7 +5479,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 78,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5501,7 +5501,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 79,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5523,7 +5523,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 80,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5545,7 +5545,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 81,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5567,7 +5567,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 82,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5589,7 +5589,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 83,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5611,7 +5611,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 84,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5633,7 +5633,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 85,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5655,7 +5655,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 86,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5677,7 +5677,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 87,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5699,7 +5699,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 88,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5721,7 +5721,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 89,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -5743,7 +5743,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2020,
             pyqExam = "NEET UG",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 90,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -7965,7 +7965,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 101,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -7987,7 +7987,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 102,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8009,7 +8009,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 103,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8031,7 +8031,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 104,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8053,7 +8053,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 105,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8075,7 +8075,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 106,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8097,7 +8097,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 107,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8119,7 +8119,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 108,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8141,7 +8141,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 109,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8163,7 +8163,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 110,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8185,7 +8185,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 111,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8207,7 +8207,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 112,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8229,7 +8229,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 113,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8251,7 +8251,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 114,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8273,7 +8273,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 115,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8295,7 +8295,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 116,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8317,7 +8317,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 117,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8339,7 +8339,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 118,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8361,7 +8361,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 119,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8383,7 +8383,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 120,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8405,7 +8405,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 121,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8427,7 +8427,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 122,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8449,7 +8449,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 123,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8471,7 +8471,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 124,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8493,7 +8493,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 125,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8515,7 +8515,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 126,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8537,7 +8537,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 127,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8559,7 +8559,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 128,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8581,7 +8581,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 129,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8603,7 +8603,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 130,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8625,7 +8625,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 131,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8645,7 +8645,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 132,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8667,7 +8667,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 133,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8689,7 +8689,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 134,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8711,7 +8711,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 135,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8733,7 +8733,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 136,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8753,7 +8753,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 137,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8775,7 +8775,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 138,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8797,7 +8797,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 139,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8819,7 +8819,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 140,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8841,7 +8841,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 141,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8863,7 +8863,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 142,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8885,7 +8885,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 143,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8907,7 +8907,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 144,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8929,7 +8929,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 145,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8951,7 +8951,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 146,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8973,7 +8973,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 147,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -8993,7 +8993,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 148,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9015,7 +9015,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 149,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9037,7 +9037,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 150,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9059,7 +9059,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 151,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9081,7 +9081,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 152,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9103,7 +9103,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 153,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9125,7 +9125,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 154,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9147,7 +9147,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 155,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9169,7 +9169,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 156,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9191,7 +9191,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 157,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9213,7 +9213,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 158,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9235,7 +9235,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 159,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9257,7 +9257,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 160,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9279,7 +9279,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 161,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9301,7 +9301,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 162,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9323,7 +9323,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 163,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9345,7 +9345,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 164,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9367,7 +9367,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 165,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9389,7 +9389,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 166,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9411,7 +9411,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 167,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9433,7 +9433,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 168,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9455,7 +9455,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 169,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9477,7 +9477,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 170,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9499,7 +9499,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 171,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9521,7 +9521,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 172,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9543,7 +9543,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 173,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9565,7 +9565,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 174,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9587,7 +9587,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 175,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9609,7 +9609,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 176,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9631,7 +9631,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 177,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9653,7 +9653,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 178,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9675,7 +9675,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 179,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9697,7 +9697,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 180,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9719,7 +9719,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 181,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9741,7 +9741,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 182,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9763,7 +9763,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 183,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9783,7 +9783,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 184,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9805,7 +9805,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 185,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9827,7 +9827,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 186,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9849,7 +9849,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 187,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9871,7 +9871,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 188,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9893,7 +9893,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 189,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9915,7 +9915,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 190,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9935,7 +9935,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 191,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9957,7 +9957,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 192,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -9979,7 +9979,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 193,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10001,7 +10001,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 194,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10023,7 +10023,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 195,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10045,7 +10045,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 196,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10067,7 +10067,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 197,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10087,7 +10087,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 198,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10109,7 +10109,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 199,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10131,7 +10131,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2022,
             pyqExam = "NEET (UG) 2022",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 200,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10153,7 +10153,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 101,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10175,7 +10175,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 102,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10197,7 +10197,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 103,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10219,7 +10219,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 104,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10241,7 +10241,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 105,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10263,7 +10263,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 106,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10285,7 +10285,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 107,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10307,7 +10307,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 108,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10329,7 +10329,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 109,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10351,7 +10351,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 110,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10373,7 +10373,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 111,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10395,7 +10395,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 112,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10417,7 +10417,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 113,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10439,7 +10439,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 114,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10461,7 +10461,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 115,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10483,7 +10483,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 116,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10505,7 +10505,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 117,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10527,7 +10527,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 118,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10549,7 +10549,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 119,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10571,7 +10571,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 120,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10593,7 +10593,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 121,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10615,7 +10615,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 122,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10637,7 +10637,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 123,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10659,7 +10659,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 124,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10681,7 +10681,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 125,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10703,7 +10703,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 126,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10725,7 +10725,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 127,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10747,7 +10747,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 128,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10769,7 +10769,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 129,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10791,7 +10791,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 130,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10813,7 +10813,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 131,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10835,7 +10835,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 132,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10857,7 +10857,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 133,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10879,7 +10879,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 134,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10901,7 +10901,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 135,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10923,7 +10923,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 136,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10945,7 +10945,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 137,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10967,7 +10967,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 138,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -10989,7 +10989,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 139,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11011,7 +11011,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 140,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11033,7 +11033,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 141,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11055,7 +11055,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 142,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11077,7 +11077,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 143,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11099,7 +11099,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 144,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11121,7 +11121,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 145,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11143,7 +11143,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 146,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11165,7 +11165,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 147,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11187,7 +11187,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 148,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11209,7 +11209,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 149,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11231,7 +11231,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 150,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11253,7 +11253,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 151,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11275,7 +11275,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 152,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11297,7 +11297,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 153,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11319,7 +11319,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 154,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11341,7 +11341,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 155,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11363,7 +11363,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 156,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11385,7 +11385,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 157,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11407,7 +11407,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 158,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11429,7 +11429,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 159,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11451,7 +11451,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 160,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11473,7 +11473,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 161,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11495,7 +11495,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 162,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11517,7 +11517,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 163,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11539,7 +11539,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 164,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11561,7 +11561,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 165,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11583,7 +11583,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 166,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11605,7 +11605,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 167,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11627,7 +11627,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 168,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11649,7 +11649,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 169,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11671,7 +11671,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 170,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11693,7 +11693,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 171,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11715,7 +11715,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 172,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11737,7 +11737,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 173,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11759,7 +11759,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 174,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11781,7 +11781,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 175,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11803,7 +11803,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 176,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11825,7 +11825,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 177,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11847,7 +11847,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 178,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11869,7 +11869,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 179,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11891,7 +11891,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 180,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11913,7 +11913,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 181,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11935,7 +11935,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 182,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11957,7 +11957,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 183,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -11979,7 +11979,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 184,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12001,7 +12001,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 185,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12023,7 +12023,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 186,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12045,7 +12045,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 187,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12067,7 +12067,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 188,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12089,7 +12089,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 189,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12111,7 +12111,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 190,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12133,7 +12133,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 191,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12155,7 +12155,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 192,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12177,7 +12177,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 193,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12199,7 +12199,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 194,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12221,7 +12221,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 195,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12243,7 +12243,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 196,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12265,7 +12265,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 197,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12287,7 +12287,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 198,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12309,7 +12309,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 199,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12331,7 +12331,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2023,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 200,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12353,7 +12353,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 101,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12375,7 +12375,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 102,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12397,7 +12397,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 103,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12419,7 +12419,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 104,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12441,7 +12441,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 105,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12463,7 +12463,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 106,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12485,7 +12485,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 107,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12507,7 +12507,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 108,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12529,7 +12529,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 109,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12551,7 +12551,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 110,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12573,7 +12573,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 111,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12595,7 +12595,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 112,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12617,7 +12617,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 113,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12639,7 +12639,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 114,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12661,7 +12661,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 115,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12683,7 +12683,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 116,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12705,7 +12705,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 117,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12727,7 +12727,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 118,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12749,7 +12749,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 119,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12771,7 +12771,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 120,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12793,7 +12793,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 121,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12815,7 +12815,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 122,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12837,7 +12837,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 123,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12859,7 +12859,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 124,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12881,7 +12881,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 125,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12903,7 +12903,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 126,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12925,7 +12925,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 127,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12947,7 +12947,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 128,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12969,7 +12969,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 129,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -12991,7 +12991,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 130,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13013,7 +13013,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 131,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13035,7 +13035,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 132,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13057,7 +13057,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 133,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13079,7 +13079,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 134,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13101,7 +13101,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 135,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13123,7 +13123,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 136,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13145,7 +13145,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 137,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13167,7 +13167,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 138,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13189,7 +13189,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 139,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13211,7 +13211,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 140,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13233,7 +13233,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 141,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13255,7 +13255,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 142,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13277,7 +13277,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 143,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13299,7 +13299,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 144,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13321,7 +13321,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 145,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13343,7 +13343,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 146,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13365,7 +13365,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 147,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13387,7 +13387,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 148,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13409,7 +13409,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 149,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13431,7 +13431,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 150,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13453,7 +13453,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 151,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13475,7 +13475,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 152,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13497,7 +13497,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 153,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13519,7 +13519,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 154,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13541,7 +13541,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 155,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13563,7 +13563,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 156,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13585,7 +13585,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 157,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13607,7 +13607,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 158,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13629,7 +13629,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 159,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13651,7 +13651,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 160,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13673,7 +13673,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 161,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13695,7 +13695,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 162,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13717,7 +13717,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 163,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13739,7 +13739,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 164,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13761,7 +13761,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 165,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13783,7 +13783,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 166,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13805,7 +13805,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 167,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13827,7 +13827,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 168,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13849,7 +13849,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 169,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13871,7 +13871,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 170,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13893,7 +13893,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 171,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13915,7 +13915,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 172,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13937,7 +13937,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 173,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13959,7 +13959,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 174,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -13981,7 +13981,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 175,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14003,7 +14003,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 176,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14025,7 +14025,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 177,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14047,7 +14047,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 178,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14069,7 +14069,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 179,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14091,7 +14091,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 180,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14113,7 +14113,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 181,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14135,7 +14135,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 182,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14157,7 +14157,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 183,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14179,7 +14179,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 184,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14201,7 +14201,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 185,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14223,7 +14223,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 186,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14245,7 +14245,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 187,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14267,7 +14267,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 188,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14289,7 +14289,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 189,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14311,7 +14311,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 190,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14333,7 +14333,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 191,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14355,7 +14355,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 192,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14377,7 +14377,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 193,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14399,7 +14399,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 194,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14421,7 +14421,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 195,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14443,7 +14443,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 196,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14465,7 +14465,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 197,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14487,7 +14487,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 198,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14509,7 +14509,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 199,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14531,7 +14531,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2024,
             pyqExam = "NEET (UG)",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 200,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14551,7 +14551,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 91,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14571,7 +14571,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 92,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14591,7 +14591,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 93,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14611,7 +14611,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 94,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14633,7 +14633,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 95,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14653,7 +14653,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 96,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14673,7 +14673,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 97,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14693,7 +14693,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 98,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14713,7 +14713,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 99,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14735,7 +14735,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 100,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14755,7 +14755,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 101,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14777,7 +14777,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 102,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14797,7 +14797,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 103,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14817,7 +14817,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 104,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14837,7 +14837,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 105,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14859,7 +14859,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 106,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14881,7 +14881,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 107,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14901,7 +14901,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 108,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14923,7 +14923,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 109,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14945,7 +14945,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 110,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14965,7 +14965,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 111,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -14985,7 +14985,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 112,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15005,7 +15005,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 113,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15025,7 +15025,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 114,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15047,7 +15047,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 115,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15067,7 +15067,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 116,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15087,7 +15087,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 117,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15107,7 +15107,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 118,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15127,7 +15127,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 119,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15147,7 +15147,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 120,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15167,7 +15167,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 121,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15187,7 +15187,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 122,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15209,7 +15209,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 123,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15231,7 +15231,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 124,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15251,7 +15251,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 125,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15273,7 +15273,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 126,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15295,7 +15295,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 127,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15317,7 +15317,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 128,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15339,7 +15339,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 129,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15359,7 +15359,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 130,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15379,7 +15379,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 131,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15399,7 +15399,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 132,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15419,7 +15419,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 133,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15439,7 +15439,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 134,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15459,7 +15459,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 135,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15479,7 +15479,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 136,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15499,7 +15499,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 137,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15519,7 +15519,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 138,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15539,7 +15539,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 139,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15561,7 +15561,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 140,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15583,7 +15583,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 141,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15605,7 +15605,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 142,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15627,7 +15627,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 143,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15647,7 +15647,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 144,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15667,7 +15667,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 145,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15689,7 +15689,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 146,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15709,7 +15709,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 147,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15729,7 +15729,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 148,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15751,7 +15751,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 149,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15771,7 +15771,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 150,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15793,7 +15793,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 151,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15815,7 +15815,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 152,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15837,7 +15837,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 153,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15859,7 +15859,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 154,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15881,7 +15881,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 155,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15901,7 +15901,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 156,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15923,7 +15923,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 157,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15943,7 +15943,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 158,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15963,7 +15963,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 159,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -15983,7 +15983,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 160,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16003,7 +16003,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 161,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16023,7 +16023,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 162,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16043,7 +16043,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 163,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16063,7 +16063,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 164,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16083,7 +16083,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 165,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16103,7 +16103,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 166,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16123,7 +16123,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 167,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16143,7 +16143,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 168,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16163,7 +16163,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 169,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16185,7 +16185,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 170,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16207,7 +16207,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 171,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16229,7 +16229,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 172,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16249,7 +16249,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 173,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16269,7 +16269,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 174,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16291,7 +16291,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 175,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16313,7 +16313,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 176,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16333,7 +16333,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 177,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16355,7 +16355,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 178,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16377,7 +16377,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 179,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         ),
@@ -16399,7 +16399,7 @@ object VerifiedPYQData {
             sourceType = SourceType.VERIFIED_PYQ,
             pyqYear = 2025,
             pyqExam = "NEET (UG) 2025",
-            pyqPaperCode = ""null,
+            pyqPaperCode = null,
             pyqQuestionNumber = 180,
             verificationStatus = "VERIFIED SOURCE — QUESTION PAPER + ANSWER KEY"
         )
