@@ -441,7 +441,7 @@ fun NCERTReaderScreen(
                 }
 
                 // NEET Lens Highlights & Insights Panel (Collapsible)
-                if (false && neetLens != null) {
+                if (neetLens != null && false) {
                     Spacer(modifier = Modifier.height(12.dp))
                     Surface(
                         color = Color(0xFFF8FAFC),
