@@ -32,7 +32,7 @@ class GeminiService {
         pageContent: String
     ): NEETLensAnalysis = withContext(Dispatchers.IO) {
         if (apiKey.isBlank() || apiKey == "MY_GEMINI_API_KEY") {
-            return@withContext fallbackAnalysis(chapterName, pageNumber)
+            throw IllegalStateException("Gemini AI is not configured")
         }
 
         val prompt = """
@@ -144,7 +144,7 @@ class GeminiService {
             )
         } catch (e: Exception) {
             Log.e("GeminiService", "Error analyzing page with Gemini: ${e.message}")
-            fallbackAnalysis(chapterName, pageNumber)
+            throw IllegalStateException("AI analysis could not be completed", e)
         }
     }
 
@@ -545,7 +545,7 @@ class GeminiService {
         }
 
         if (apiKey.isBlank() || apiKey == "MY_GEMINI_API_KEY") {
-            return@withContext fallbackQuestion(chapterName, chapterId, pageNumber, preferredType, difficulty, sourcePoint)
+            throw IllegalStateException("Gemini AI is not configured")
         }
 
         val pointContext = if (!sourcePoint.isNullOrBlank()) {
@@ -667,14 +667,13 @@ class GeminiService {
             // Strict Question Validation Pipeline
             val validation = QuestionValidator.validate(rawGenerated, pageContent)
             if (validation is QuestionValidator.ValidationResult.Invalid) {
-                Log.w("GeminiService", "Generated question failed validation: ${validation.reason}. Using grounded fallback.")
-                fallbackQuestion(chapterName, chapterId, pageNumber, preferredType, difficulty, sourcePoint)
+                throw IllegalStateException("Generated question failed validation: ${validation.reason}")
             } else {
                 rawGenerated
             }
         } catch (e: Exception) {
             Log.e("GeminiService", "Failed to generate AI question via Gemini: ${e.message}")
-            fallbackQuestion(chapterName, chapterId, pageNumber, preferredType, difficulty, sourcePoint)
+            throw IllegalStateException("AI question generation could not be completed", e)
         }
     }
 
@@ -1005,4 +1004,3 @@ class GeminiService {
         return "• Biological Importance: Represents an essential physiological or structural mechanism.\n• NCERT Importance: Stated with precise scientific terminology on Page $pageNumber.\n• Question Potential: High probability for Statement-based or Assertion-Reason evaluations evaluating exact wording."
     }
 }
-

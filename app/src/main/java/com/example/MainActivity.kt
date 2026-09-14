@@ -156,6 +156,7 @@ fun SSKNAppRoot(viewModel: SSKNViewModel) {
                     onScanPage = { viewModel.scanCurrentPage() },
                     onQuestionFromPoint = { point -> viewModel.startTargetedPracticeForPoint(point) },
                     scanningStage = uiState.scanningStage,
+                    aiErrorMessage = uiState.aiErrorMessage,
                     aiMode = uiState.aiMode,
                     onToggleAIMode = { viewModel.toggleAIMode() },
                     diagramAnalysis = uiState.activeDiagramAnalysis,

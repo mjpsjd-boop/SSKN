@@ -47,6 +47,7 @@ data class SSKNUiState(
     val mistakes: List<MistakeRecord> = emptyList(),
     val activeNEETLens: NEETLensAnalysis? = null,
     val isAnalyzingLens: Boolean = false,
+    val aiErrorMessage: String? = null,
     val chatMessages: List<ChatMessage> = emptyList(),
     val isChatLoading: Boolean = false,
     val searchQuery: String = "",
@@ -255,6 +256,7 @@ class SSKNViewModel(application: Application) : AndroidViewModel(application) {
         viewModelScope.launch {
             _uiState.value = _uiState.value.copy(
                 isAnalyzingLens = true,
+                aiErrorMessage = null,
                 scanningStage = "Analyzing your NCERT page..."
             )
             kotlinx.coroutines.delay(300)
@@ -270,18 +272,26 @@ class SSKNViewModel(application: Application) : AndroidViewModel(application) {
                 scanningStage = "Preparing NEET Lens..."
             )
 
-            val live = geminiService.analyzePageWithNEETLens(
-                chapterName = page.chapterName,
-                pageNumber = page.pageNumber,
-                pageContent = page.content
-            )
-            repository.savePageAnalysis(live)
-
-            _uiState.value = _uiState.value.copy(
-                scanningStage = "Analysis ready",
-                activeNEETLens = live,
-                isAnalyzingLens = false
-            )
+            try {
+                val live = geminiService.analyzePageWithNEETLens(
+                    chapterName = page.chapterName,
+                    pageNumber = page.pageNumber,
+                    pageContent = page.content
+                )
+                repository.savePageAnalysis(live)
+                _uiState.value = _uiState.value.copy(
+                    scanningStage = "Analysis ready",
+                    activeNEETLens = live,
+                    isAnalyzingLens = false,
+                    aiErrorMessage = null
+                )
+            } catch (error: Exception) {
+                _uiState.value = _uiState.value.copy(
+                    isAnalyzingLens = false,
+                    scanningStage = null,
+                    aiErrorMessage = "AI analysis couldn’t be completed. Please retry."
+                )
+            }
         }
     }
 

@@ -51,6 +51,7 @@ fun NCERTReaderScreen(
     onScanPage: () -> Unit = {},
     onQuestionFromPoint: (ImportantPoint) -> Unit = {},
     scanningStage: String? = null,
+    aiErrorMessage: String? = null,
     aiMode: PracticeMode = PracticeMode.NCERT_STRICT,
     onToggleAIMode: () -> Unit = {},
     diagramAnalysis: DiagramAnalysisResult? = null,
@@ -114,6 +115,7 @@ fun NCERTReaderScreen(
         bottomBar = {
             if (!isFocusMode) {
                 ReaderBottomDock(
+                    onOpenScan = { activeSheet = ReaderSheetType.PAGE_ANALYSIS },
                     onOpenImportant = { activeSheet = ReaderSheetType.IMPORTANT_POINTS },
                     onOpenPractice = { activeSheet = ReaderSheetType.PRACTICE_CONFIG },
                     onOpenAskAI = { activeSheet = ReaderSheetType.ASK_AI },
@@ -412,7 +414,7 @@ fun NCERTReaderScreen(
                     }
                 } else {
                     Button(
-                        onClick = onScanPage,
+                        onClick = { activeSheet = ReaderSheetType.PAGE_ANALYSIS; onScanPage() },
                         colors = ButtonDefaults.buttonColors(
                             containerColor = AIPurple,
                             contentColor = Color.White
@@ -439,7 +441,7 @@ fun NCERTReaderScreen(
                 }
 
                 // NEET Lens Highlights & Insights Panel (Collapsible)
-                if (neetLens != null) {
+                if (false && neetLens != null) {
                     Spacer(modifier = Modifier.height(12.dp))
                     Surface(
                         color = Color(0xFFF8FAFC),
@@ -801,6 +803,21 @@ fun NCERTReaderScreen(
             shape = RoundedCornerShape(topStart = 20.dp, topEnd = 20.dp)
         ) {
             when (activeSheet) {
+                ReaderSheetType.PAGE_ANALYSIS -> {
+                    PageAnalysisSheetContent(
+                        page = page,
+                        analysis = neetLens,
+                        isLoading = isLensLoading,
+                        scanningStage = scanningStage,
+                        errorMessage = aiErrorMessage,
+                        onScan = onScanPage,
+                        onClose = { activeSheet = null },
+                        onGenerateMCQs = {
+                            activeSheet = null
+                            onStartAIDrill()
+                        }
+                    )
+                }
                 ReaderSheetType.IMPORTANT_POINTS -> {
                     ImportantPointsSheetContent(
                         page = page,
@@ -918,6 +935,84 @@ fun NCERTReaderScreen(
             )
         }
     }
+}
+
+@Composable
+private fun PageAnalysisSheetContent(
+    page: NCERTPageData,
+    analysis: NEETLensAnalysis?,
+    isLoading: Boolean,
+    scanningStage: String?,
+    errorMessage: String?,
+    onScan: () -> Unit,
+    onClose: () -> Unit,
+    onGenerateMCQs: () -> Unit
+) {
+    Column(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 20.dp, vertical = 14.dp)
+            .navigationBarsPadding()
+            .testTag("page_analysis_sheet")
+    ) {
+        Text("PAGE ANALYSIS", fontSize = 12.sp, fontWeight = FontWeight.Black, color = PrimaryText, letterSpacing = 0.8.sp)
+        Spacer(modifier = Modifier.height(4.dp))
+        Text("Page ${page.pageNumber} · ${page.chapterName}", fontSize = 12.sp, color = SecondaryText, maxLines = 1, overflow = TextOverflow.Ellipsis)
+        Spacer(modifier = Modifier.height(12.dp))
+
+        if (isLoading) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                CircularProgressIndicator(modifier = Modifier.size(18.dp), strokeWidth = 2.dp, color = AIPurple)
+                Spacer(modifier = Modifier.width(10.dp))
+                Text(scanningStage ?: "Scanning page…", fontSize = 12.5.sp, color = AIPurple, fontWeight = FontWeight.SemiBold)
+            }
+            Spacer(modifier = Modifier.height(10.dp))
+            Text("Reading NCERT content and finding question potential…", fontSize = 11.5.sp, color = SecondaryText)
+        } else if (errorMessage != null) {
+            Text(errorMessage, fontSize = 12.5.sp, color = ErrorRed, lineHeight = 18.sp)
+            Spacer(modifier = Modifier.height(12.dp))
+            Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                OutlinedButton(onClick = onScan, modifier = Modifier.weight(1f), shape = RoundedCornerShape(10.dp)) {
+                    Text("Retry", fontWeight = FontWeight.Bold)
+                }
+                Button(onClick = onClose, modifier = Modifier.weight(1f), shape = RoundedCornerShape(10.dp), colors = ButtonDefaults.buttonColors(containerColor = SecondaryText)) {
+                    Text("Close", fontWeight = FontWeight.Bold)
+                }
+            }
+        } else if (analysis == null) {
+            Text("Scan only this NCERT page to extract grounded important points and question potential.", fontSize = 12.5.sp, color = PrimaryText, lineHeight = 18.sp)
+            Spacer(modifier = Modifier.height(12.dp))
+            Button(onClick = onScan, modifier = Modifier.fillMaxWidth(), shape = RoundedCornerShape(10.dp), colors = ButtonDefaults.buttonColors(containerColor = AIPurple)) {
+                Icon(Icons.Default.AutoAwesome, contentDescription = null, modifier = Modifier.size(17.dp))
+                Spacer(modifier = Modifier.width(8.dp))
+                Text("Scan This Page", fontWeight = FontWeight.Bold)
+            }
+        } else {
+            AnalysisSection("MOST IMPORTANT", analysis.mustRemember)
+            AnalysisSection("NEET FOCUS", listOf(analysis.neetFocus))
+            AnalysisSection("KEY FACTS", analysis.keyNCERTFacts)
+            AnalysisSection("QUESTION POTENTIAL", listOf(analysis.questionPotential))
+            if (!analysis.keyTerms.isNullOrEmpty()) AnalysisSection("KEY TERMS", analysis.keyTerms)
+            if (!analysis.diagramFocus.isNullOrBlank()) AnalysisSection("DIAGRAM FOCUS", listOf(analysis.diagramFocus!!))
+            Spacer(modifier = Modifier.height(8.dp))
+            Button(onClick = onGenerateMCQs, modifier = Modifier.fillMaxWidth(), shape = RoundedCornerShape(10.dp), colors = ButtonDefaults.buttonColors(containerColor = PrimaryBlue)) {
+                Icon(Icons.Default.Quiz, contentDescription = null, modifier = Modifier.size(17.dp))
+                Spacer(modifier = Modifier.width(8.dp))
+                Text("Generate MCQs From This Page", fontWeight = FontWeight.Bold)
+            }
+        }
+        Spacer(modifier = Modifier.height(16.dp))
+    }
+}
+
+@Composable
+private fun AnalysisSection(title: String, values: List<String>) {
+    if (values.isEmpty()) return
+    Text(title, fontSize = 10.sp, fontWeight = FontWeight.Bold, color = PrimaryBlue, letterSpacing = 0.6.sp)
+    values.take(4).forEach { value ->
+        Text("• $value", fontSize = 12.sp, color = PrimaryText, lineHeight = 17.sp, modifier = Modifier.padding(top = 3.dp))
+    }
+    Spacer(modifier = Modifier.height(8.dp))
 }
 
 @Composable
@@ -1063,6 +1158,7 @@ private fun HighlightPointDetailSheetContent(
 }
 
 enum class ReaderSheetType {
+    PAGE_ANALYSIS,
     IMPORTANT_POINTS,
     PRACTICE_CONFIG,
     ASK_AI,
@@ -1074,6 +1170,7 @@ enum class ReaderSheetType {
 
 @Composable
 private fun ReaderBottomDock(
+    onOpenScan: () -> Unit,
     onOpenImportant: () -> Unit,
     onOpenPractice: () -> Unit,
     onOpenAskAI: () -> Unit,
@@ -1095,6 +1192,13 @@ private fun ReaderBottomDock(
             horizontalArrangement = Arrangement.SpaceAround,
             verticalAlignment = Alignment.CenterVertically
         ) {
+            DockButton(
+                icon = Icons.Default.AutoAwesome,
+                iconTint = AIPurple,
+                title = "Scan Page",
+                onClick = onOpenScan,
+                testTag = "dock_btn_scan_page"
+            )
             DockButton(
                 icon = Icons.Default.Bolt,
                 iconTint = WarningOrange,
