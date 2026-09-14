@@ -57,7 +57,7 @@ jobs:
         with:
           name: "SSKN Release ${{ github.ref_name || inputs.tag_name }}"
           tag_name: "${{ github.ref_name || inputs.tag_name }}"
-          draft: false
+          draft: true
           prerelease: false
           generate_release_notes: true
           body: |
