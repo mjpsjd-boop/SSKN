@@ -321,33 +321,45 @@ class SSKNViewModel(application: Application) : AndroidViewModel(application) {
         _uiState.value = _uiState.value.copy(chatMessages = currentMsgs, isChatLoading = true)
 
         viewModelScope.launch {
-            val responseText = geminiService.askThisPage(
-                chapterName = page.chapterName,
-                pageNumber = page.pageNumber,
-                pageContent = page.content,
-                userQuery = query,
-                history = currentMsgs,
-                mode = _uiState.value.aiMode
-            )
-            val sourceTag = if (_uiState.value.aiMode == PracticeMode.NCERT_STRICT) "NCERT BASED" else "NEET FOCUS"
-            val aiMsg = ChatMessage(
-                id = "msg_ai_${System.currentTimeMillis()}",
-                isUser = false,
-                text = responseText,
-                sourceContext = sourceTag
-            )
-            _uiState.value = _uiState.value.copy(
-                chatMessages = _uiState.value.chatMessages + aiMsg,
-                isChatLoading = false,
-                aiGenerationHistory = listOf(
-                    AIGenerationHistoryItem(
-                        id = "hist_${System.currentTimeMillis()}",
-                        type = "ASK_AI",
-                        title = "Q: ${query.take(30)}...",
-                        snippet = responseText.take(80) + "..."
-                    )
-                ) + _uiState.value.aiGenerationHistory
-            )
+            try {
+                val responseText = geminiService.askThisPage(
+                    chapterName = page.chapterName,
+                    pageNumber = page.pageNumber,
+                    pageContent = page.content,
+                    userQuery = query,
+                    history = currentMsgs,
+                    mode = _uiState.value.aiMode
+                )
+                val sourceTag = if (_uiState.value.aiMode == PracticeMode.NCERT_STRICT) "NCERT BASED" else "NEET FOCUS"
+                val aiMsg = ChatMessage(
+                    id = "msg_ai_${System.currentTimeMillis()}",
+                    isUser = false,
+                    text = responseText,
+                    sourceContext = sourceTag
+                )
+                _uiState.value = _uiState.value.copy(
+                    chatMessages = _uiState.value.chatMessages + aiMsg,
+                    isChatLoading = false,
+                    aiGenerationHistory = listOf(
+                        AIGenerationHistoryItem(
+                            id = "hist_${System.currentTimeMillis()}",
+                            type = "ASK_AI",
+                            title = "Q: ${query.take(30)}...",
+                            snippet = responseText.take(80) + "..."
+                        )
+                    ) + _uiState.value.aiGenerationHistory
+                )
+            } catch (error: Exception) {
+                _uiState.value = _uiState.value.copy(
+                    chatMessages = _uiState.value.chatMessages + ChatMessage(
+                        id = "msg_ai_error_${System.currentTimeMillis()}",
+                        isUser = false,
+                        text = "AI could not analyze this page right now. Please retry; your page and progress remain saved.",
+                        sourceContext = "AI UNAVAILABLE"
+                    ),
+                    isChatLoading = false
+                )
+            }
         }
     }
 

@@ -15,7 +15,7 @@ object NCERTSampleData {
             totalPages = 9,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo101.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -29,7 +29,7 @@ object NCERTSampleData {
             totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo102.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -43,7 +43,7 @@ object NCERTSampleData {
             totalPages = 14,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo103.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -57,7 +57,7 @@ object NCERTSampleData {
             totalPages = 18,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo104.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -71,7 +71,7 @@ object NCERTSampleData {
             totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo105.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -85,7 +85,7 @@ object NCERTSampleData {
             totalPages = 8,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo106.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -99,7 +99,7 @@ object NCERTSampleData {
             totalPages = 6,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo107.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -127,7 +127,7 @@ object NCERTSampleData {
             totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo109.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -155,7 +155,7 @@ object NCERTSampleData {
             totalPages = 22,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo111.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -169,7 +169,7 @@ object NCERTSampleData {
             totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo112.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -197,7 +197,7 @@ object NCERTSampleData {
             totalPages = 12,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo114.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -211,7 +211,7 @@ object NCERTSampleData {
             totalPages = 12,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo115.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -225,7 +225,7 @@ object NCERTSampleData {
             totalPages = 12,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo116.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -239,7 +239,7 @@ object NCERTSampleData {
             totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo117.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -253,7 +253,7 @@ object NCERTSampleData {
             totalPages = 9,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo118.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -267,7 +267,7 @@ object NCERTSampleData {
             totalPages = 14,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/kebo119.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -281,7 +281,7 @@ object NCERTSampleData {
             totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://archive.org/download/ncert-kebo1/kebo120.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -295,7 +295,7 @@ object NCERTSampleData {
             totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://archive.org/download/ncert-kebo1/kebo121.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -309,7 +309,7 @@ object NCERTSampleData {
             totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://archive.org/download/ncert-kebo1/kebo122.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -323,7 +323,7 @@ object NCERTSampleData {
             totalPages = 25,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo101.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -337,7 +337,7 @@ object NCERTSampleData {
             totalPages = 15,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo102.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -365,7 +365,7 @@ object NCERTSampleData {
             totalPages = 28,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo104.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -407,7 +407,7 @@ object NCERTSampleData {
             totalPages = 22,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo107.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -421,7 +421,7 @@ object NCERTSampleData {
             totalPages = 12,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo108.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -435,7 +435,7 @@ object NCERTSampleData {
             totalPages = 16,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo109.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -449,7 +449,7 @@ object NCERTSampleData {
             totalPages = 11,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo110.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -463,7 +463,7 @@ object NCERTSampleData {
             totalPages = 17,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo111.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -477,7 +477,7 @@ object NCERTSampleData {
             totalPages = 11,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo112.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -491,7 +491,7 @@ object NCERTSampleData {
             totalPages = 13,
             isHighYield = false,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://ncert.nic.in/textbook/pdf/lebo113.pdf",
             contentAvailability = "BUNDLED_PDF"
         ),
@@ -505,7 +505,7 @@ object NCERTSampleData {
             totalPages = 17,
             isHighYield = true,
             verifiedPYQCount = 0,
-            description = "Official chapter PDF bundled from the linked textbook source; open the PDF lesson to read every original page.",
+            description = "Complete chapter pages are bundled in this app; open the digital notebook to read every page.",
             sourceUrl = "https://archive.org/download/ncert-lebo1/lebo114.pdf",
             contentAvailability = "BUNDLED_PDF"
         )

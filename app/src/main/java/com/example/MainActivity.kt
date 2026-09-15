@@ -171,7 +171,8 @@ fun SSKNAppRoot(viewModel: SSKNViewModel) {
                     onGenerateSummary = { viewModel.generate30SecondSummary(page) }
                 )
             } else {
-                viewModel.navigateBack()
+                // Do not pop the app when an AI action targets a PDF-only page.
+                viewModel.openPdfLesson(screen.chapterId)
             }
         }
 
